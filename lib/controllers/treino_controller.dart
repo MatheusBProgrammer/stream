@@ -23,5 +23,3 @@ class TreinoController {
     yield EndEvent();
   }
 }
-//copilot, tell me the comandlines to submit to github
-//git add .
