@@ -23,3 +23,8 @@ class TreinoController {
     yield EndEvent();
   }
 }
+//git init
+//git add .
+//git commit -m "teste"
+//git remot add origin
+//
